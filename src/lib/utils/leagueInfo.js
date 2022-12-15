@@ -7,10 +7,8 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Welcome to The DTF Club, the premiere fantasy football league for jamokes by jamokes. Founded over a decade ago, The DTF Club has become the gold standard in meaningless arguments, petty grudges, and complete disregard for order or process. </p>
-
-<p>We did a draft by e-mail once.
-</p>
+<p>Welcome to The DTF Club, the premiere fantasy football league for jamokes by jamokes. Founded over a decade ago, The DTF Club has become the gold standard in meaningless arguments, petty grudges, and complete disregard for order or process. </p>
+<p>We did a draft by e-mail once. </p>
 
 `;
 
