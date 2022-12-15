@@ -111,7 +111,7 @@ export const managers = [
        "name": "Ankit",
        "tookOver": 2010, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Manhattan", // (optional)
-       "bio": "Once the leader of the world-infamous Swagmen, Ankit's recent seasons should not diminish the fact that he won the 2012 DTF Championship . It should, however, highlight that he is entering what could be his ninth consecutive season missing the playoffs. Lifetime analytics say that Ankit is the league's "unluckiest" member. Does the former star still contain a supernova or will he burn out quietly while breaking a league record for number of Sackos?",
+       "bio": "Once the leader of the world-infamous Swagmen, Ankit's recent seasons should not diminish the fact that he won the 2012 DTF Championship . It should, however, highlight that he is entering what could be his ninth consecutive season missing the playoffs. Lifetime analytics say that Ankit is the league's 'unluckiest' member. Does the former star still contain a supernova or will he burn out quietly while breaking a league record for number of Sackos?",
        "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
        "mode": "Rebuild", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
        "tradingScale": 10, // 1 - 10
