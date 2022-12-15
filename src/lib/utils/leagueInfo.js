@@ -40,7 +40,7 @@ export const managers = [
        "name": "Ben",
        "tookOver": 2013, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Brooklyn", // (optional)
-       "bio": "Are we still talking about his management? For the first time, yes. We're talking about League historian and archivist, Ben. Ben won a chip in 2018 and has shown consistent fantasy competence in the form of having the winningest lifetime head-to-head record (.607). The DTF Stats & Analytics team has also noted him as the 'luckiest' member. The question for this season will be, 'Is Ben feeling lucky, punk?',
+       "bio": "Are we still talking about his management? For the first time, yes. We're talking about League historian and archivist, Ben. Ben won a chip in 2018 and has shown consistent fantasy competence in the form of having the winningest lifetime head-to-head record (.607). The DTF Stats & Analytics team has also noted him as the 'luckiest' member. The question for this season will be, 'Is Ben feeling lucky, punk?'",
        "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
        "favoriteTeam": "nyg", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
        "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
